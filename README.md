@@ -1,0 +1,2 @@
+# beta
+distribución continua beta
